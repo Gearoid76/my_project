@@ -1,2 +1,2 @@
-"""this is feature1"""
+"""this is feature"""
 print("This is a fast forward mearge")
